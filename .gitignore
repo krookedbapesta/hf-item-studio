@@ -1,0 +1,17 @@
+# dependencies and build output
+node_modules/
+app/dist/
+
+# House Flipper game data is never committed: the app builds it from the user's own install
+app/reference/
+local-game-data/
+*.hfcontent
+
+# local app data and tooling
+app/.devdata/
+.claude/
+*.tmp-*
+
+# python bytecode
+__pycache__/
+*.pyc
