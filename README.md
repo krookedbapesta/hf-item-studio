@@ -1,5 +1,7 @@
 # HF Item Studio
 
+**DISCLAIMER! AI was used for the creation of this tool!**
+
 A desktop app for making custom House Flipper items without opening Unity. It reads and
 writes the game's `.hfcontent` format directly, so you can go from a 3D model to a
 Workshop upload in one place.
